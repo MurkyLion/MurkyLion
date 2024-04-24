@@ -1,6 +1,6 @@
 # :facepunch: Hi there!!
 
- My name is Issam Zaidi, Murky Lion as brand name.<br>
+ My name is Issam Zaidi.<br>
  I'm a draftsman and illustrator who made the mistake of stepping into web developing.<br>
  
 :birthday: 22/10/1993 <br>
