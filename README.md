@@ -10,7 +10,6 @@
  ## :rocket: Stuff ongoing actually
  Coursing a Multimedia Design degree.<br>
  Developing a portfolio website.<br>
- Learning Three JS with [Bruno Simon's course](https://threejs-journey.com)<br>
  
  ### :lion: Contact me!:
  :email: clubandgun@gmail.com
